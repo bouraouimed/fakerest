@@ -1,0 +1,20 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "name": "remoteUser1",
+      "gsm": 4321,
+      "email": "user1@email.com",
+	  "linkedinLink": "linkedin/link1",
+	  "githubLink":"github/link1"
+    },
+    {
+      "id": 2,
+      "name": "remoteUser2",
+      "gsm": 1234,
+      "email": "user2@email.com",
+	  "linkedinLink": "linkedin/link2",
+	  "githubLink":"github/link2"
+    }
+  ]
+}
